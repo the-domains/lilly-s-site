@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3886108
+color:
+  lightness: 0.2359199
+  brandStrength: 0.7428035
+  saturation: 0.4787234
+  rhythmicContrast: 0.879224
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Lilly's Site
